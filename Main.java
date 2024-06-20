@@ -1,3 +1,8 @@
+// == CS400 Spring 2024 File Header Information ==
+// Name: Minh Long
+// Email: llnguyen3@wisc.edu
+// Lecturer: Jiazhen Zhou
+// Notes to Grader:
 /*
  * Test the use of the Color method
  */
